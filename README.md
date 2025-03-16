@@ -1,10 +1,11 @@
 # MementoMusica 
 
 ### 🏆 Selected as a WWDC23 Swift Student Challenge Winner !
-<img width="300" alt="Screenshot 2025-03-16 at 1 20 05 AM" src="https://github.com/user-attachments/assets/ceb5f0d6-837d-4b93-9ea0-1826b3578bd1" />
+<img width="400" alt="Screenshot 2025-03-16 at 1 20 05 AM" src="https://github.com/user-attachments/assets/ceb5f0d6-837d-4b93-9ea0-1826b3578bd1" />
 <img width="300" alt="Screenshot 2025-03-16 at 1 40 39 AM" src="https://github.com/user-attachments/assets/fb56622c-0b33-484e-902e-d5973cf03513" />
 
-![Simulator Screen Shot - iPhone 14 - 2023-05-17 at 20 41 14](https://github.com/user-attachments/assets/bae25d3f-1041-4882-9018-b744b76b41d2)
+<img src="https://github.com/user-attachments/assets/bae25d3f-1041-4882-9018-b744b76b41d2" width="300"/>
+
 
 ## About the Project
 > 'MementoMusica' is an interactive app that helps a protagonist, who is gradually losing memories due to dementia, hold onto precious moments by allowing users to play meaningful music for them.
