@@ -1,6 +1,6 @@
 # MementoMusica 
 
-### 🏆 Selected as a WWDC23 Swift Student Challenge Winner !
+##  WWDC23 Swift Student Challenge [Winner] 🏆
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bae25d3f-1041-4882-9018-b744b76b41d2" width="250"/>
