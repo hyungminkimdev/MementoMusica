@@ -1,8 +1,9 @@
 # MementoMusica 
 
 ### 🏆 Selected as a WWDC23 Swift Student Challenge Winner !
-<img width="809" alt="Screenshot 2025-03-16 at 1 20 05 AM" src="https://github.com/user-attachments/assets/ceb5f0d6-837d-4b93-9ea0-1826b3578bd1" />
-<img width="656" alt="Screenshot 2025-03-16 at 1 40 39 AM" src="https://github.com/user-attachments/assets/fb56622c-0b33-484e-902e-d5973cf03513" />
+<img width="300" alt="Screenshot 2025-03-16 at 1 20 05 AM" src="https://github.com/user-attachments/assets/ceb5f0d6-837d-4b93-9ea0-1826b3578bd1" />
+<img width="300" alt="Screenshot 2025-03-16 at 1 40 39 AM" src="https://github.com/user-attachments/assets/fb56622c-0b33-484e-902e-d5973cf03513" />
+
 ![Simulator Screen Shot - iPhone 14 - 2023-05-17 at 20 41 14](https://github.com/user-attachments/assets/bae25d3f-1041-4882-9018-b744b76b41d2)
 
 ## About the Project
@@ -16,11 +17,11 @@ The story follows an aging man who slowly begins to forget the musical memories 
 
 ## Video and Screenshots
 
-![Simulator Scre
+![Simulator Screen Shot - iPhone 14 - 2023-05-17 at 20 41 14](https://github.com/user-attachments/assets/bae25d3f-1041-4882-9018-b744b76b41d2)
 
 https://github.com/user-attachments/assets/57ded1a4-e72e-4177-8222-d382c435d2a4
 
-en Shot - iPhone 14 - 2023-05-17 at 20 41 14](https://github.com/user-attachments/assets/bae25d3f-1041-4882-9018-b744b76b41d2)
+
 
 | **MainView** | **StoryView** | **GuitarView** 
 | --- | --- | --- |
