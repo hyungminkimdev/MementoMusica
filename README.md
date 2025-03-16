@@ -25,7 +25,7 @@ The story follows an aging man who slowly begins to forget the musical memories 
 ## Video
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/57ded1a4-e72e-4177-8222-d382c435d2a4" width="300"/>
+  <img src="https://github.com/user-attachments/assets/57ded1a4-e72e-4177-8222-d382c435d2a4" width="250"/>
 </div>
 
 <br/>
